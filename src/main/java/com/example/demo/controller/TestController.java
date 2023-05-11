@@ -11,4 +11,8 @@ public class TestController {
 		System.out.println("강의실 작업");
 		return "index";
 	}
+	
+	public void test1() {
+		System.out.println("test1 branch에서 작업");
+	}
 }
